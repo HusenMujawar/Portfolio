@@ -1,16 +1,16 @@
 export const Bio = {
   name: "Husen Mujawar",
   roles: [
+    "Programmer",
     "Java Developer",
     "Web Developer",
     "Full Stack Developer",
-    "Programmer",
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/HusenMujawar",
   resume:
-    "https://drive.google.com/file/d/1KctOdq9bHMjq6y1UZXLbqrdYxsinf7dw/view?usp=sharing",
+    "https://drive.google.com/file/d/1KhPUy6HkTRv2x6X87_NXsxpJtnDReGyt/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/husen-mujawar-48a781244",
   twitter: "https://x.com/hus_min_341",
   insta: "https://www.instagram.com/hus_min_341",
@@ -159,7 +159,7 @@ export const education = [
   },
   {
     id: 3,
-    img: "https://www.ctboracollege.edu.in/images/College-logo1.jpg",
+    img: "https://tse1.mm.bing.net/th?id=OIP.7kQklCtAXHphI9FvbONrNQAAAA&pid=Api&P=0&h=180",
     school: "Ma. Bapusaheb Gawade Vidyalay,Takli Haji , Shirur, Pune.",
     date: "Apr 2016 - Apr 2017",
     grade: "86.0%",
